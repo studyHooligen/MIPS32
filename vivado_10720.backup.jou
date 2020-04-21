@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Apr  9 12:11:22 2020
+# Process ID: 10720
+# Current directory: D:/CollegeHomework/MIPS32
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12520 D:\CollegeHomework\MIPS32\MIPS32.xpr
+# Log file: D:/CollegeHomework/MIPS32/vivado.log
+# Journal file: D:/CollegeHomework/MIPS32\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/CollegeHomework/MIPS32/MIPS32.xpr
+update_compile_order -fileset sources_1
+set_property BOARD_PART_REPO_PATHS {C:/Users/23731/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store} [current_project]
+set_param board.repoPaths {C:/Users/23731/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store}
+set_property BOARD_PART_REPO_PATHS {C:/Users/23731/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store} [current_project]
+set_param board.repoPaths {C:/Users/23731/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store}
+close_project
+open_project D:/CollegeHomework/MIPS32/MIPS32.xpr
+update_compile_order -fileset sources_1

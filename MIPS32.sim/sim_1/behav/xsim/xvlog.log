@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/DATA_RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DATA_RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/GPR32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GPR32
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/INSTR_ROM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module INSTR_ROM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/MIPS32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MIPS32
+INFO: [VRFC 10-311] analyzing module PCReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/SYSTEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SYSTEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/mainCtroller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mainController
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/shiftBitModules.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module signedShiftLeft
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/signExt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module signExt
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/systemSimulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module systemSimulation

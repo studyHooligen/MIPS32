@@ -1,0 +1,7 @@
+Running: xsim.dir/GPR32_sim_behav/xsimk.exe -simmode gui -wdb GPR32_sim_behav.wdb -simrunnum 0 -socket 59353
+Design successfully loaded
+Design Loading Memory Usage: 7784 KB (Peak: 7784 KB)
+Design Loading CPU Usage: 218 ms
+Simulation completed
+Simulation Memory Usage: 8440 KB (Peak: 8440 KB)
+Simulation CPU Usage: 250 ms

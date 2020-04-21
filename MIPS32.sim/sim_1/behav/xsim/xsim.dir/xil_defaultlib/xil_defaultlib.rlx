@@ -1,0 +1,21 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/CollegeHomework/MIPS32/MIPS32.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/GPR32_sim.v,1587464667,verilog,,,,GPR32_sim,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/RAM_sim.v,1586936543,verilog,,,,RAM_sim,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/ROM_sim.v,1586868223,verilog,,,,ROM_sim,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/shift_sim.v,1587112871,verilog,,,,shift_sim,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/signExt_sim.v,1587010419,verilog,,,,signExt_sim,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/systemSimulation.v,1587462617,verilog,,,,systemSimulation,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/testBench.v,1586404186,verilog,,,,testBench,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/ALU.v,1587003425,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/DATA_RAM.v,,ALU,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/DATA_RAM.v,1586937459,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/GPR32.v,,DATA_RAM,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/GPR32.v,1587464052,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/INSTR_ROM.v,,GPR32,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/INSTR_ROM.v,1586937426,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/MIPS32.v,,INSTR_ROM,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/MIPS32.v,1587465153,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/SYSTEM.v,,MIPS32;PCReg,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/SYSTEM.v,1587462340,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/mainCtroller.v,,SYSTEM,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/mainCtroller.v,1587115933,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/shiftBitModules.v,,mainController,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/shiftBitModules.v,1587112641,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/signExt.v,,signedShiftLeft,,,,,,,,
+D:/CollegeHomework/MIPS32/MIPS32.srcs/sources_1/new/signExt.v,1587010060,verilog,,D:/CollegeHomework/MIPS32/MIPS32.srcs/sim_1/new/systemSimulation.v,,signExt,,,,,,,,
