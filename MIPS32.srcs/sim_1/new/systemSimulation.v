@@ -28,7 +28,7 @@ module systemSimulation(
     //实例化本实验设计的整个微处理器
     SYSTEM wholeSysModule(CLK,RST);
     
-    //时钟生成
+    //时钟激励生成
     parameter PERIOD = 10;
     always begin
       CLK = 1'b0;

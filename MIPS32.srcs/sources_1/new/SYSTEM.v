@@ -28,5 +28,5 @@ module SYSTEM(
     wire MemWriteEN;
   MIPS32 mips(ALURes, MemWriteData, MemWriteEN, PC, ReadData, Instr, CLK, RST);
   INSTR_ROM imem(PC[6:2],Instr,CLK);
-  DATA_RAM dmem(ALURes[6:2],ReadData,MemWriteData,MemWriteEN,CLK);
+  DATA_RAM dmem(ALURes[4:0],ReadData,MemWriteData,MemWriteEN,CLK);
 endmodule

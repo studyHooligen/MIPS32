@@ -45,6 +45,7 @@ module MIPS32(
     //实例化通用寄存器
     assign RegWriteData = RegWriteDataSrc ? ReadData : ALURes;
     assign RegWriteAddr = RegWriteAddrSrc ? Instr[15:11] : Instr[20:16];
+    assign MemWriteData = Rt;
     GPR32 generalPurposeRegister(Rs,Rt,   
             RegWriteData,RegWriteAddr,
             Instr[25:21],Instr[20:16],
